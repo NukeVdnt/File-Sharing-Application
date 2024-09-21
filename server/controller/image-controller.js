@@ -14,7 +14,7 @@ export const uploadImage = async (request, response) => {
     const file = await File.create(fileObj);
     response
       .status(200)
-      .json({ path: `${process.env.CLIENT_URL}:${process.env.PORT}/file/${file._id}` });
+      .json({ path: `${process.env.CLIENT_URL}/file/${file._id}` });
   } catch (error) {
     console.error(error.message);
     response.status(500).json({ error: error.message });
