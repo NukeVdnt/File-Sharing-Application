@@ -3,6 +3,7 @@
 This application is a web-based platform built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that allows users to upload files and share them with others via a unique link. When someone clicks on the generated link, the file is downloaded directly.
 
 ## Proof of Work
+<video src="https://github.com/user-attachments/assets/0a8a8afd-0711-4a54-b647-bef026718fc1" width="400" height=auto controls></video>
 
 ## Features
 - File Uploading: Users can upload files of various types and sizes.
