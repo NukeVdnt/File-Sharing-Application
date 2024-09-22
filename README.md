@@ -10,6 +10,10 @@ This application is a web-based platform built using the MERN stack (MongoDB, Ex
 - Link Sharing: Users can share the generated link with others.
 - File Download: When someone clicks on the link, the file is downloaded to their device.
 
+## Snapshot
+![image](https://github.com/user-attachments/assets/a899c2f4-31b8-4b15-9068-7b3a98937986)
+
+
 ## Tech Stack
 - Frontend: React.js
 - Backend: Node.js, Express.js
